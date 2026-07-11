@@ -11,11 +11,11 @@ A production-grade, enterprise GenAI system engineered for sub-100ms retrieval, 
 Most GenAI deployments optimize for one axis—either quality or speed. NeuralMesh is designed from first principles to deliver both simultaneously, by treating retrieval, inference, and orchestration as a tightly coupled system rather than independently bolted components.
 
 ### Core Metrics:
-* **Time-to-first-token (p95):** < 300ms
+* **Time-to-first-token (p95):** < 200ms
 * **Full response latency (p95):** < 1.2s
 * **Concurrent Users:** 50K+
 * **Cost per query:** ~$0.0008
-* **Hallucination rate (RAG):** < 4%
+* **Hallucination rate (RAG):** < 6%
 
 ---
 
